@@ -5,11 +5,11 @@ Este proyecto emula el proceso y funcionalidad de un procesador convencional de 
 
 Consta de los siguientes 3 laboratorios:
 
-### 1. [CPU Modules](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/CPU)
+#### 1. [CPU Modules](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/CPU)
 
-### 2. Input/Output Modules
+#### 2. Input/Output Modules
 
-### 3. 
+#### 3. 
 
 ## Requerimientos
 
