@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'Address[0]'
+Slack : -6.775
+TNS   : -87.608
+
+Type  : Slow 1100mV 85C Model Setup 'DMCtrl[0]'
+Slack : -6.159
+TNS   : -107.264
+
+Type  : Slow 1100mV 85C Model Hold 'DMCtrl[0]'
+Slack : -0.317
+TNS   : -0.317
+
+Type  : Slow 1100mV 85C Model Hold 'Address[0]'
+Slack : 0.322
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Address[0]'
+Slack : -1.454
+TNS   : -16.653
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'DMCtrl[0]'
+Slack : -0.343
+TNS   : -14.079
+
+Type  : Slow 1100mV 0C Model Setup 'Address[0]'
+Slack : -6.712
+TNS   : -86.206
+
+Type  : Slow 1100mV 0C Model Setup 'DMCtrl[0]'
+Slack : -6.059
+TNS   : -105.422
+
+Type  : Slow 1100mV 0C Model Hold 'DMCtrl[0]'
+Slack : -0.307
+TNS   : -0.307
+
+Type  : Slow 1100mV 0C Model Hold 'Address[0]'
+Slack : 0.124
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Address[0]'
+Slack : -1.507
+TNS   : -17.074
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'DMCtrl[0]'
+Slack : -0.334
+TNS   : -15.250
+
+Type  : Fast 1100mV 85C Model Setup 'Address[0]'
+Slack : -4.577
+TNS   : -55.436
+
+Type  : Fast 1100mV 85C Model Setup 'DMCtrl[0]'
+Slack : -4.225
+TNS   : -67.791
+
+Type  : Fast 1100mV 85C Model Hold 'DMCtrl[0]'
+Slack : -0.269
+TNS   : -0.472
+
+Type  : Fast 1100mV 85C Model Hold 'Address[0]'
+Slack : 0.072
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Address[0]'
+Slack : -1.048
+TNS   : -40.820
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'DMCtrl[0]'
+Slack : -0.557
+TNS   : -36.366
+
+Type  : Fast 1100mV 0C Model Setup 'Address[0]'
+Slack : -4.216
+TNS   : -50.200
+
+Type  : Fast 1100mV 0C Model Setup 'DMCtrl[0]'
+Slack : -3.823
+TNS   : -61.538
+
+Type  : Fast 1100mV 0C Model Hold 'DMCtrl[0]'
+Slack : -0.317
+TNS   : -0.671
+
+Type  : Fast 1100mV 0C Model Hold 'Address[0]'
+Slack : -0.008
+TNS   : -0.010
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Address[0]'
+Slack : -1.034
+TNS   : -43.133
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'DMCtrl[0]'
+Slack : -0.553
+TNS   : -37.726
+
+------------------------------------------------------------

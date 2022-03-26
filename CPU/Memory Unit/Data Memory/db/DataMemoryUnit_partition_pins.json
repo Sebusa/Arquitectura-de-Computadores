@@ -1,0 +1,73 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "DataRd[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DataRd[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DataRd[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DataRd[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DMCtrl[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DMCtrl[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DMCtrl[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DataWr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DataWr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DMWr",
+					"strict" : false
+				},
+				{
+					"name" : "Address[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DataWr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DataWr[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
