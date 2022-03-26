@@ -1,7 +1,7 @@
 # Arquitectura-de-Computadores
 Laboratorios de práctica sobre el diseño de hardware y programación de un procesador y sus componentes.
 
-Este proyecto consta de 3 entregas de laboratorio de práctica para el disño de *hardware* para la materia de ***Arquitectura de computadores***.
+Este proyecto emula el proceso y funcionalidad de un procesador convencional de 32 bits. consta de 3 entregas de laboratorio de práctica para el diseño de *hardware* para la materia de ***Arquitectura de computadores***.
 
 Consta de los siguientes 3 laboratorios:
 
