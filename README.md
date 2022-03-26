@@ -35,4 +35,4 @@ Este módulo maneja el resto de memorias de acceso al procesador acorde a la jer
 
 Si tienes alguna dudad sobre el proyecto puedes contactarme: 
 ***[s.buitrago2@utp.edu.co](mailto:s.buitrago2@utp.edu.co)***
-###### *Este proyecto fue elaborado con propósitos académicos*
+###### *Este proyecto fue elaborado con propósitos netamente académicos y no comerciales*
