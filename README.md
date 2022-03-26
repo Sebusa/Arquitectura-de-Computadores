@@ -11,6 +11,12 @@ Consta de los siguientes 3 laboratorios:
 
 ### 3. 
 
+## Requerimientos
+
+
+## Cómo usar
+
+
 ## CPU Modules
 Este laboratorio consta sobre los módulos de operaciones básicos que maneja un procesador convencional:
 - *[ALU (Arithmethic-Logic Unit)](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/CPU/ALU):*
@@ -24,6 +30,8 @@ Este módulo maneja la manipulación de instrucciones dadas en lenguaje de máqu
 Este módulo maneja el resto de memorias de acceso al procesador acorde a la jerarquía de memorias. 
 
 ## Input/Output Modules
+
+
 
 Si tienes alguna dudad sobre el proyecto puedes contactarme: 
 ***[s.buitrago2@utp.edu.co](mailto:s.buitrago2@utp.edu.co)***
