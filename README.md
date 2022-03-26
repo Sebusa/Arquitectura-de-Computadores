@@ -13,14 +13,14 @@ Consta de los siguientes 3 laboratorios:
 
 ## CPU Modules
 Este laboratorio consta sobre los módulos de operaciones básicos que maneja un procesador convencional:
-- *[ALU (Arithmethic-Logic Unit)](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/CPU/ALU)*
-Esta módulo realiza todo el cálculo y manipulación de datos tanto aritméticos como lógicos dentro de un procesador.
-- *[Register Unit](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/CPU/Register%20Unit)*
+- *[ALU (Arithmethic-Logic Unit)](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/CPU/ALU):*
+Este módulo realiza todo el cálculo y manipulación de datos tanto aritméticos como lógicos dentro de un procesador.
+- *[Register Unit](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/CPU/Register%20Unit):*
 Este módulo es la que maneja todos los registros de alta prioridad para un procesador.
-- *Memory Units*
-  - *[Instruction Memory](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/CPU/Memory%20Unit/Instruction%20Memory)*
+- *Memory Units:*
+  - *[Instruction Memory](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/CPU/Memory%20Unit/Instruction%20Memory):*
 Este módulo maneja la manipulación de instrucciones dadas en lenguaje de máquina.
-  - *[Data Memory](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/CPU/Memory%20Unit/Data%20Memory)*
+  - *[Data Memory](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/CPU/Memory%20Unit/Data%20Memory):*
 Este módulo maneja el resto de memorias de acceso al procesador acorde a la jerarquía de memorias. 
 
 ## Input/Output Modules
