@@ -12,5 +12,5 @@ Consta de los siguientes 3 laboratorios:
 ### 3. 
 
 Si tienes alguna dudad sobre el proyecto puedes contactarme: 
-#### - ***[correo](mailto:s.buitrago2@utp.edu.co)***
+***[s.buitrago2@utp.edu.co](mailto:s.buitrago2@utp.edu.co)***
 ###### *Este proyecto fue elaborado con propósitos académicos*
