@@ -1,0 +1,97 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "HSync",
+					"strict" : false
+				},
+				{
+					"name" : "VSync",
+					"strict" : false
+				},
+				{
+					"name" : "VGAPixel[5]",
+					"strict" : false
+				},
+				{
+					"name" : "VGAPixel[6]",
+					"strict" : false
+				},
+				{
+					"name" : "VGAPixel[7]",
+					"strict" : false
+				},
+				{
+					"name" : "VGAPixel[13]",
+					"strict" : false
+				},
+				{
+					"name" : "VGAPixel[14]",
+					"strict" : false
+				},
+				{
+					"name" : "VGAPixel[15]",
+					"strict" : false
+				},
+				{
+					"name" : "VGAPixel[21]",
+					"strict" : false
+				},
+				{
+					"name" : "VGAPixel[22]",
+					"strict" : false
+				},
+				{
+					"name" : "VGAPixel[23]",
+					"strict" : false
+				},
+				{
+					"name" : "VGAclk",
+					"strict" : false
+				},
+				{
+					"name" : "blue[0]",
+					"strict" : false
+				},
+				{
+					"name" : "blue[1]",
+					"strict" : false
+				},
+				{
+					"name" : "blue[2]",
+					"strict" : false
+				},
+				{
+					"name" : "green[0]",
+					"strict" : false
+				},
+				{
+					"name" : "green[1]",
+					"strict" : false
+				},
+				{
+					"name" : "green[2]",
+					"strict" : false
+				},
+				{
+					"name" : "red[0]",
+					"strict" : false
+				},
+				{
+					"name" : "red[1]",
+					"strict" : false
+				},
+				{
+					"name" : "red[2]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
