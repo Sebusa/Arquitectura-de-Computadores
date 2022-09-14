@@ -1,0 +1,42 @@
+|VGAMonitor
+clk => CLK25MHz.CLK
+red[0] => result.DATAB
+red[1] => result.DATAB
+red[2] => result.DATAB
+green[0] => result.DATAB
+green[1] => result.DATAB
+green[2] => result.DATAB
+blue[0] => result.DATAB
+blue[1] => result.DATAB
+blue[2] => result.DATAB
+HSync << HSync~reg0.DB_MAX_OUTPUT_PORT_TYPE
+VSync << VSync~reg0.DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[0] << result[0].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[1] << result[1].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[2] << result[2].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[3] << result[3].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[4] << result[4].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[5] << result[5].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[6] << result[6].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[7] << result[7].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[8] << result[8].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[9] << result[9].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[10] << result[10].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[11] << result[11].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[12] << result[12].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[13] << result[13].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[14] << result[14].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[15] << result[15].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[16] << result[16].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[17] << result[17].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[18] << result[18].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[19] << result[19].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[20] << result[20].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[21] << result[21].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[22] << result[22].DB_MAX_OUTPUT_PORT_TYPE
+VGAPixel[23] << result[23].DB_MAX_OUTPUT_PORT_TYPE
+VGAclk << CLK25MHz.DB_MAX_OUTPUT_PORT_TYPE
+VGABlank << <VCC>
+VGASync << <VCC>
+
+

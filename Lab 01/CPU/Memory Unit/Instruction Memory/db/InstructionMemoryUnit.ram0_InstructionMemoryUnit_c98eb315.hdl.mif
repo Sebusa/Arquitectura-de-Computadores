@@ -1,0 +1,15 @@
+-- begin_signature
+-- InstructionMemoryUnit
+-- end_signature
+WIDTH=10;
+DEPTH=4;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	3 :	0001000101;
+	2 :	1010101010;
+	1 :	1111111111;
+	0 :	0000000000;
+END;

@@ -1,0 +1,32 @@
+|PS2Keyboard
+clk => counter[0].CLK
+clk => counter[1].CLK
+clk => counter[2].CLK
+clk => counter[3].CLK
+clk => currentData[0].CLK
+clk => currentData[1].CLK
+clk => currentData[2].CLK
+clk => currentData[3].CLK
+clk => currentData[4].CLK
+clk => currentData[5].CLK
+clk => currentData[6].CLK
+clk => currentData[7].CLK
+clk => flag.CLK
+Data => currentData[0].DATAIN
+Data => currentData[1].DATAIN
+Data => currentData[2].DATAIN
+Data => currentData[3].DATAIN
+Data => currentData[4].DATAIN
+Data => currentData[5].DATAIN
+Data => currentData[6].DATAIN
+Data => currentData[7].DATAIN
+Ascii[0] << out[0].DB_MAX_OUTPUT_PORT_TYPE
+Ascii[1] << out[1].DB_MAX_OUTPUT_PORT_TYPE
+Ascii[2] << out[2].DB_MAX_OUTPUT_PORT_TYPE
+Ascii[3] << out[3].DB_MAX_OUTPUT_PORT_TYPE
+Ascii[4] << out[4].DB_MAX_OUTPUT_PORT_TYPE
+Ascii[5] << out[5].DB_MAX_OUTPUT_PORT_TYPE
+Ascii[6] << out[6].DB_MAX_OUTPUT_PORT_TYPE
+Ascii[7] << out[7].DB_MAX_OUTPUT_PORT_TYPE
+
+

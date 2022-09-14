@@ -1,0 +1,23 @@
+|InstructionMemoryUnit
+Instruction[0] << memory.DATAOUT
+Instruction[1] << memory.DATAOUT1
+Instruction[2] << memory.DATAOUT2
+Instruction[3] << memory.DATAOUT3
+Instruction[4] << memory.DATAOUT4
+Instruction[5] << memory.DATAOUT5
+Instruction[6] << memory.DATAOUT6
+Instruction[7] << memory.DATAOUT7
+Instruction[8] << memory.DATAOUT8
+Instruction[9] << memory.DATAOUT9
+Address[0] => memory.RADDR
+Address[1] => memory.RADDR1
+Address[2] => ~NO_FANOUT~
+Address[3] => ~NO_FANOUT~
+Address[4] => ~NO_FANOUT~
+Address[5] => ~NO_FANOUT~
+Address[6] => ~NO_FANOUT~
+Address[7] => ~NO_FANOUT~
+Address[8] => ~NO_FANOUT~
+Address[9] => ~NO_FANOUT~
+
+

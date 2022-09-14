@@ -1,0 +1,105 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "RU1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RU1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RU1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RU1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RU1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RU2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RU2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RU2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RU2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RU2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "rd[2]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rs1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DataWR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RUWr",
+					"strict" : false
+				},
+				{
+					"name" : "rd[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rs1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rd[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rs1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DataWR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DataWR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rs2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rs2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rs2[1]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

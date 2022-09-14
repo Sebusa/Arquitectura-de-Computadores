@@ -1,0 +1,41 @@
+module DataMemoryUnit(
+  output logic [31:0] DataRd,
+  input logic [31:0] Address, DataWr,
+  input logic [2:0] DMCtrl,
+  input logic DMWr
+);
+  
+reg[31:0] registers[31:0];
+
+  initial begin
+    //Input
+    if(DMWr)
+       registers[Address] = DataWr;
+    
+    //Output
+    case(DMCtrl) 
+      
+      3'b000:
+        begin
+          if(Address[7] == 1)
+            DataRd = registers[{{24{1'b1}},Address[7:0]}]; // byte signed 1
+          else
+            DataRd = registers[{{24{1'b0}},Address[7:0]}]; // byte signed 0
+        end
+
+      3'b001: 
+        begin
+          if(Address[15] == 1)
+            DataRd = registers[{{16{1'b1}},Address[15:0]}]; // half signed 1
+          else
+            DataRd = registers[{{16{1'b0}},Address[15:0]}]; // half signed 0
+        end
+
+      3'b010: DataRd = registers[Address]; //Word
+      3'b100: DataRd = registers[Address[7:0]]; //byte unsigned
+      3'b010: DataRd = registers[Address[15:0]]; //half unsigned
+
+    endcase
+
+  end 
+endmodule
