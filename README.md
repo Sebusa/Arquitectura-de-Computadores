@@ -29,6 +29,11 @@ Este módulo maneja la manipulación de instrucciones dadas en lenguaje de máqu
 Este módulo maneja el resto de memorias de acceso al procesador acorde a la jerarquía de memorias. 
 
 ## Input/Output Modules
+Este laboratorio constra sobre los módulos de entrada y salida (I/O) del usuario ante el computador:
+- *[VGA Monitor](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/Lab%2002/modules/VGAMonitor):*
+Este módulo simula el comportamiento de un monitor VGA monocromático. El comportamiento se evalúa por medio del cambio de valores en el arreglo de colores RGB.
+- *[PS2 Keyboard](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/Lab%2002/modules/PS2Keyboard):*
+Este módulo simula el comportamiento de un monitor PS2. El comportamiento se evalúa obteniendo el valor ASCII de cada tecla.
 
 
 
