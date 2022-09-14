@@ -37,6 +37,6 @@ Este módulo simula el comportamiento de un monitor PS2. El comportamiento se ev
 
 
 
-Si tienes alguna dudad sobre el proyecto puedes contactarme: 
-###***[s.buitrago2@utp.edu.co](mailto:s.buitrago2@utp.edu.co)***
+### Si tienes alguna dudad sobre el proyecto puedes contactarme: 
+***[s.buitrago2@utp.edu.co](mailto:s.buitrago2@utp.edu.co)***
 ###### *Este proyecto fue elaborado con propósitos netamente académicos y no comerciales*
