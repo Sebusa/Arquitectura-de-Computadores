@@ -18,14 +18,14 @@ Selecciona cualquiera de los dos laboratorios y utilízalo a tu antojo.
 
 ## CPU Modules
 Este laboratorio consta sobre los módulos de operaciones básicos que maneja un procesador convencional:
-- *[ALU (Arithmethic-Logic Unit)]():*
+- *[ALU (Arithmethic-Logic Unit)](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/Lab%2001/CPU/ALU):*
 Este módulo realiza todo el cálculo y manipulación de datos tanto aritméticos como lógicos dentro de un procesador.
-- *[Register Unit]):*
+- *[Register Unit](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/Lab%2001/CPU/Register%20Unit):*
 Este módulo es la que maneja todos los registros de alta prioridad para un procesador.
 - *Memory Units:*
-  - *[Instruction Memory]():*
+  - *[Instruction Memory](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/Lab%2001/CPU/Memory%20Unit/Instruction%20Memory):*
 Este módulo maneja la manipulación de instrucciones dadas en lenguaje de máquina.
-  - *[Data Memory]():*
+  - *[Data Memory](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/Lab%2001/CPU/Memory%20Unit/Data%20Memory):*
 Este módulo maneja el resto de memorias de acceso al procesador acorde a la jerarquía de memorias. 
 
 ## Input/Output Modules
