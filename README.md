@@ -36,7 +36,7 @@ Este módulo simula el comportamiento de un monitor VGA monocromático. El compo
 Este módulo simula el comportamiento de un monitor PS2. El comportamiento se evalúa obteniendo el valor ASCII de cada tecla.
 
 
-
-### Si tienes alguna dudad sobre el proyecto puedes contactarme: 
-### ***[s.buitrago2@utp.edu.co](mailto:s.buitrago2@utp.edu.co)***
+____________________________________________________________
+Si tienes alguna dudad sobre el proyecto puedes contactarme: 
+***[s.buitrago2@utp.edu.co](mailto:s.buitrago2@utp.edu.co)***
 ###### *Este proyecto fue elaborado con propósitos netamente académicos y no comerciales*
