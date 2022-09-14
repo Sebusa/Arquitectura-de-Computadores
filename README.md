@@ -5,9 +5,9 @@ Este proyecto emula el proceso y funcionalidad de un procesador convencional de 
 
 Consta de los siguientes dos laboratorios:
 
-#### 1. [CPU Modules]
+#### 1. [CPU Modules](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/Lab%2001)
 
-#### 2. Input/Output Modules
+#### 2. [Input/Output Modules](https://github.com/Sebusa/Arquitectura-de-Computadores/tree/master/Lab%2002)
 
 ## Requerimientos
 - Instalar el emulador de Intel Quartus.
